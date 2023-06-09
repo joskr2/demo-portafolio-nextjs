@@ -12,7 +12,7 @@ const Header: FC<Props> = () => {
 
 
   return (
-    <header className='flex w-full h-8 border-b-black justify-between p-3'>
+    <header className='flex w-full  border-b-black justify-between p-3 sticky top-0 bg-white drop-shadow'>
       <p className='font-bold  text-xl  md:text-3xl'>Dev Mario</p>
       <nav>
         <ul className='flex'>
