@@ -8,7 +8,7 @@ interface Props {
 const Footer: FC<Props> = () => {
   return (
     <footer>
-      <p>Footer</p>
+      <p></p>
     </footer>
   )
 }
