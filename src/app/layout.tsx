@@ -22,7 +22,7 @@ export default function Layout({
         <>
           {children}
         </>
-        <Footer title='Footer' description='demo footer' />
+        <Footer  />
       </body>
     </html>
   )
