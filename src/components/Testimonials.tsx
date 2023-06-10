@@ -31,19 +31,7 @@ const Testimonials = () => {
     {
       url: '/testimonial.svg',
       name: 'John Doe'
-    },
-    {
-      url: '/testimonial.svg',
-      name: 'John Doe'
-    },
-    {
-      url: '/testimonial.svg',
-      name: 'John Doe'
-    },
-    {
-      url: '/testimonial.svg',
-      name: 'John Doe'
-    },
+    }
   ]
 
   return (
