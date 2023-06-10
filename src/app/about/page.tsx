@@ -7,9 +7,6 @@ const About = () => {
     <section className='flex flex-col md:flex-row md:justify-around md:items-center'>
       <div className='flex flex-col flex-1 p-5'>
         <p className=''>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda odit illum praesentium amet provident consectetur nulla itaque deleniti! Culpa quis dolorem non id ullam quod omnis doloremque ipsa similique atque!
-
-          Hola soy el nuevo cambio fasfkasdkfasmdfakmeflawfmklsamflsak
         </p>
         <p className=''>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda odit illum praesentium amet provident consectetur nulla itaque deleniti! Culpa quis dolorem non id ullam quod omnis doloremque ipsa similique atque!

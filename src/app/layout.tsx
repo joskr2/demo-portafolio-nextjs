@@ -22,7 +22,7 @@ export default function Layout({
         <>
           {children}
         </>
-        <Footer />
+        <Footer  />
       </body>
     </html>
   )
